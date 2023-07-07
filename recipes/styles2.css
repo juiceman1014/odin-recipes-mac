@@ -1,0 +1,19 @@
+h1{
+    color: hsl(22, 78%, 69%);
+}
+
+h2{
+    color: #10c8cf;
+}
+
+h3{
+    color: rgb(200, 117, 236);
+}
+
+.ancestor{
+    background-color: green;
+}
+
+.ancestor .child{
+    background-color: purple;
+}

@@ -1,0 +1,28 @@
+h1{
+    color: rgb(88, 248, 88);
+}
+
+#recipe{
+    background-color: red;
+}
+
+.recipe{
+    font-size: 50px;
+    font-family: "copperplate", fantasy, sans-serif;
+    font-weight: bold;
+}
+
+.pho{
+    color:aquamarine;
+}
+
+.burger{
+    color: yellow;
+}
+
+.cookie{
+    color: blue;
+}
+
+
+
