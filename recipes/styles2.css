@@ -1,16 +1,19 @@
 h1{
     color: rgb(161, 107, 236);
     border: 5px solid rgb(161, 107, 236);
+    display: inline-block;
 }
 
 h2{
     color: rgb(161, 107, 236);
     border: 5px solid rgb(161, 107, 236);
+    display: inline-block;
 }
 
 h3{
     color: rgb(161, 107, 236);
     border: 5px solid rgb(161, 107, 236);
+    display: inline-block;
 }
 
 /* .ancestor{
