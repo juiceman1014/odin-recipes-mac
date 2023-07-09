@@ -17,3 +17,18 @@ h3{
 .ancestor .child{
     background-color: purple;
 }
+
+.pho-picture{
+    height: auto;
+    width: 760px;
+}
+
+.burger-picture{
+    height: auto;
+    width: 760px;
+}
+
+.cookie-picture{
+    height: auto;
+    width: 760px;
+}
