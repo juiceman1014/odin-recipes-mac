@@ -1,28 +1,36 @@
 h1{
-    color: rgb(88, 248, 88);
+    color: rgb(161, 107, 236);
+    font-family: "copperplate", fantasy, sans-serif;
+    font-size: 70px;
+    text-align: center;
 }
 
 #recipe{
-    background-color: red;
-}
-
-.recipe{
-    font-size: 50px;
-    font-family: "copperplate", fantasy, sans-serif;
-    font-weight: bold;
+    list-style: none;
+    text-align: center;
+    
 }
 
 .pho{
     color:aquamarine;
+    margin: 20px;
 }
 
 .burger{
     color: yellow;
+    margin: 20px;
 }
 
 .cookie{
     color: blue;
+    margin: 20px;
 }
 
-
-
+button{
+    background-color: black;
+    font-size: 50px;
+    font-family: "copperplate", fantasy, sans-serif;
+    font-weight: bold;
+    color: white;
+    
+}
