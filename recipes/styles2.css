@@ -1,34 +1,41 @@
 h1{
-    color: hsl(22, 78%, 69%);
+    color: rgb(161, 107, 236);
+    border: 5px solid rgb(161, 107, 236);
 }
 
 h2{
-    color: #10c8cf;
+    color: rgb(161, 107, 236);
+    border: 5px solid rgb(161, 107, 236);
 }
 
 h3{
-    color: rgb(200, 117, 236);
+    color: rgb(161, 107, 236);
+    border: 5px solid rgb(161, 107, 236);
 }
 
-.ancestor{
+/* .ancestor{
     background-color: green;
-}
+} */
 
-.ancestor .child{
+/* .ancestor .child{
     background-color: purple;
-}
+} */
 
 .pho-picture{
     height: auto;
     width: 760px;
+    border: 5px dotted rgb(161, 107, 236);
+    
 }
 
 .burger-picture{
     height: auto;
     width: 760px;
+    border: 5px dotted rgb(161, 107, 236);
 }
 
 .cookie-picture{
     height: auto;
     width: 760px;
+    border: 5px dotted rgb(161, 107, 236);
 }
