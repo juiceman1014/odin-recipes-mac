@@ -1,19 +1,22 @@
 h1{
     color: rgb(161, 107, 236);
     border: 5px solid rgb(161, 107, 236);
-    display: inline-block;
+    height: fit-content;
+    width: fit-content;
 }
 
 h2{
     color: rgb(161, 107, 236);
     border: 5px solid rgb(161, 107, 236);
-    display: inline-block;
+    height: fit-content;
+    width: fit-content;
 }
 
 h3{
     color: rgb(161, 107, 236);
     border: 5px solid rgb(161, 107, 236);
-    display: inline-block;
+    height: fit-content;
+    width: fit-content;
 }
 
 /* .ancestor{
@@ -40,5 +43,5 @@ h3{
 .cookie-picture{
     height: auto;
     width: 760px;
-    border: 5px dotted rgb(161, 107, 236);
+    border: 5px dotted rgb(161, 107, 236);;
 }
